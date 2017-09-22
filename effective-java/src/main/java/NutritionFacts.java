@@ -1,5 +1,3 @@
-package com.zhaowq.javatest.effectivejava;
-
 /**
  * builder模式
  */
