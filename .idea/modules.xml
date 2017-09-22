@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/book-examples.iml" filepath="$PROJECT_DIR$/.idea/modules/book-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/book-examples_main.iml" filepath="$PROJECT_DIR$/.idea/modules/book-examples_main.iml" group="book-examples" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/book-examples_test.iml" filepath="$PROJECT_DIR$/.idea/modules/book-examples_test.iml" group="book-examples" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/effective-java.iml" filepath="$PROJECT_DIR$/.idea/modules/effective-java.iml" group="effective-java" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/effective-java/effective-java_main.iml" filepath="$PROJECT_DIR$/.idea/modules/effective-java/effective-java_main.iml" group="effective-java" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/effective-java/effective-java_test.iml" filepath="$PROJECT_DIR$/.idea/modules/effective-java/effective-java_test.iml" group="effective-java" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java8-lambdas-functional-programming.iml" filepath="$PROJECT_DIR$/.idea/modules/java8-lambdas-functional-programming.iml" group="java8-lambdas-functional-programming" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java8-lambdas-functional-programming/java8-lambdas-functional-programming_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java8-lambdas-functional-programming/java8-lambdas-functional-programming_main.iml" group="java8-lambdas-functional-programming" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java8-lambdas-functional-programming/java8-lambdas-functional-programming_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java8-lambdas-functional-programming/java8-lambdas-functional-programming_test.iml" group="java8-lambdas-functional-programming" />
+      <module fileurl="file://$PROJECT_DIR$/sharp-jQuery/sharp-jQuery.iml" filepath="$PROJECT_DIR$/sharp-jQuery/sharp-jQuery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thinking-in-java.iml" filepath="$PROJECT_DIR$/.idea/modules/thinking-in-java.iml" group="thinking-in-java" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thinking-in-java/thinking-in-java_main.iml" filepath="$PROJECT_DIR$/.idea/modules/thinking-in-java/thinking-in-java_main.iml" group="thinking-in-java" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thinking-in-java/thinking-in-java_test.iml" filepath="$PROJECT_DIR$/.idea/modules/thinking-in-java/thinking-in-java_test.iml" group="thinking-in-java" />
+    </modules>
+  </component>
+</project>

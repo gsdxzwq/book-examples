@@ -1,0 +1,5 @@
+rootProject.name = 'book-examples'
+include 'thinking-in-java'
+include 'effective-java'
+include 'java8-lambdas-functional-programming'
+
