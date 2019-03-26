@@ -2,7 +2,8 @@
  * builder模式
  */
 public class NutritionFacts {
-    private final int servingSize;// 这里只是列举比较少的参数
+    // 这里只是列举比较少的参数
+    private final int servingSize;
     private final int servings;
     private final int calaries;
     private final int fat;

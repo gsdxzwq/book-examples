@@ -3,4 +3,7 @@ include 'thinking-in-java'
 include 'effective-java'
 include 'java8-lambdas-functional-programming'
 include 'mastering-elasticsearch'
+include 'netty-definitive-guide'
+include 'java-concurrency-in-practice'
+include 'understanding-the-jvm'
 
