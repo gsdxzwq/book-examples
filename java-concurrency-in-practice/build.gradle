@@ -4,8 +4,6 @@ version '1.0-SNAPSHOT'
 apply plugin: 'java'
 apply plugin: 'idea'
 
-sourceCompatibility = 1.8
-
 repositories {
     mavenLocal()
     mavenCentral()
@@ -13,10 +11,10 @@ repositories {
 
 dependencies {
     // https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api
-    compile group: 'javax.servlet', name: 'javax.servlet-api', version: '3.1.0'
+    implementation group: 'javax.servlet', name: 'javax.servlet-api', version: '3.1.0'
     // https://mvnrepository.com/artifact/net.jcip/jcip-annotations
-    compile group: 'net.jcip', name: 'jcip-annotations', version: '1.0'
-    testCompile group: 'junit', name: 'junit', version: '4.12'
+    implementation group: 'net.jcip', name: 'jcip-annotations', version: '1.0'
+    testImplementation 'junit:junit:4.13.2'
 }
 
 task "create-dirs" {
